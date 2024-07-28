@@ -1,4 +1,4 @@
-package com.ashokit;
+package org.vinodscope;
 
 class SbRestAppApplicationTests {
 
