@@ -1,4 +1,4 @@
-package in.ashokit.rest;
+package org.vinodscope.rest;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
