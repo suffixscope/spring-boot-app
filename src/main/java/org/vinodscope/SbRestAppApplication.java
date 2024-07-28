@@ -1,4 +1,4 @@
-package in.ashokit;
+package org.vinodscope;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
